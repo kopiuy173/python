@@ -1,0 +1,7 @@
+print("hello world.")
+print("i am a robot.")
+print("but i am not just a robot.")
+print("you will see it,soon.")
+print("today is 2026.7.15.")
+print("it is my first attempt to code.")
+print("cheer.")
